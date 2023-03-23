@@ -2,4 +2,4 @@
 
 ## 目录
 
-- [引言](/guides/prompts-intro.md)
+- [引言](/提示学习指南/引言.md)
